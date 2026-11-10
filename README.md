@@ -1,8 +1,9 @@
 # AP
 
-Sketch para Arduino IDE que transforma o ESP32 em um ponto de acesso Wi-Fi (Access Point). O ESP32 cria a própria rede, com IP fixo, e mostra no Monitor Serial o nome da rede, o host, a quantidade de aparelhos conectados e o endereço MAC de cada um.
+Sketch para Arduino IDE que transforma o ESP32 em um ponto de acesso Wi-Fi (Access Point). O ESP32 cria a própria rede, com IP fixo, e mostra no Monitor Serial o nome da rede, o host, a quantidade[...]
 
 [![Ver o código](https://img.shields.io/badge/Ver%20o%20c%C3%B3digo-AP.ino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](AP.ino)
+[![View English version](https://img.shields.io/badge/View%20English%20version-AP--EN.ino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](AP-EN.ino)
 
 ## O que ele faz
 
